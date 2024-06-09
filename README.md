@@ -5,7 +5,7 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript par
 ## Como Executar
 
 1. Clone este repositório e navegue até o diretório do exercício desejado.
-2. Abra o terminal e execute o comando npm i
+2. Abra o terminal e execute o comando `npm i`
 3. Execute o script usando o comando `node nome_do_arquivo.js`.
 4. Siga as instruções fornecidas no terminal para interagir com o exercício.
 
